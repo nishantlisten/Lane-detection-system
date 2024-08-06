@@ -1,0 +1,5 @@
+pandas
+numpy
+opencv-contrib-python
+winsound
+playsound
